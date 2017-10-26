@@ -4,4 +4,4 @@
 #### npm install -g pretttify-json
 
 #### To use:
-#### pretttify-json <filename>
+#### pretttify-json '<filename>'
